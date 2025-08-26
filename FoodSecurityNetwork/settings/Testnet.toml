@@ -1,0 +1,7 @@
+[network]
+name = "testnet"
+stacks_node_rpc_address = "https://api.testnet.hiro.so"
+deployment_fee_rate = 10
+
+[accounts.deployer]
+mnemonic = "minor dynamic judge oak business genre desert close flee lake identify upper evil height boost more fun game garment treat merge frost stable boost"
