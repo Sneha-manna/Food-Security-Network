@@ -75,9 +75,9 @@ Our platform aims to transform how society approaches food security by leveragin
 - `emergency-claim-food`: Emergency food distribution (owner only)
 
 ### Integration Details
-- **Frontend Repository:** `[To be updated]`
-- **API Documentation:** `[To be updated]`
-- **SDK Package:** `[To be updated]`
+- **Frontend Repository:** 
+- **API Documentation:** 
+- **SDK Package:** `
   <img width="1275" height="656" alt="26 08 2025_10 48 05_REC" src="https://github.com/user-attachments/assets/85223a6b-89c8-4252-9fa4-997c206a7192" />
 
 
