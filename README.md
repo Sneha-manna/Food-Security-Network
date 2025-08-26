@@ -1,4 +1,4 @@
-# Food-Security-Network
+
 # FoodSecurity Network
 
 ## Project Description
