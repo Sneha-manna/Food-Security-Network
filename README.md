@@ -61,14 +61,6 @@ Our platform aims to transform how society approaches food security by leveragin
 - **Interoperability**: Cross-chain bridges and multi-blockchain support
 - **Privacy Features**: Zero-knowledge proofs for sensitive beneficiary information
 - **Scalability Solutions**: Implementation of state channels and off-chain computation
-
-## Contract Address Details
-
-**Mainnet Contract Address:** `[To be deployed]`  
-**Testnet Contract Address:** `[To be deployed]`  
-**Contract Name:** `foodsecurity-network`  
-**Token Name:** `Food Credit (FOOD)`  
-
 ### Deployment Information
 - **Network:** Stacks Blockchain
 - **Compiler Version:** Clarity 2.0
