@@ -86,6 +86,8 @@ Our platform aims to transform how society approaches food security by leveragin
 - **Frontend Repository:** `[To be updated]`
 - **API Documentation:** `[To be updated]`
 - **SDK Package:** `[To be updated]`
+  <img width="1275" height="656" alt="26 08 2025_10 48 05_REC" src="https://github.com/user-attachments/assets/85223a6b-89c8-4252-9fa4-997c206a7192" />
+
 
 ---
 
